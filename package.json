@@ -1,6 +1,6 @@
 {
   "name": "shell-bot",
-  "main": "app.js"
+  "main": "app.json"
   "private": true,
   "version": "1.0.1",
   "engines": {
